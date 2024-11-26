@@ -79,7 +79,7 @@ Financial Scoring Project/
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Deepak001/financial-scoring.git
+   git clone https://github.com/Deepak0015/financial-scoring.git
    cd financial-scoring
    ```
 
